@@ -1,10 +1,10 @@
-package training;
+package training.methodoverloading;
 
-public class Courses {
+public class Course {
 
     private String name;
 
-    public Courses(String name) {
+    public Course(String name) {
         this.name = name;
     }
 

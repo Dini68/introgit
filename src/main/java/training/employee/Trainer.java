@@ -1,4 +1,4 @@
-package training;
+package training.employee;
 
 public class Trainer {
 
