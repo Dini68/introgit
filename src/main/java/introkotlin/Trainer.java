@@ -1,7 +1,5 @@
 package introkotlin;
 
-import training.aaa.A;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
